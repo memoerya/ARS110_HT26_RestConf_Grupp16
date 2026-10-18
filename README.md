@@ -10,7 +10,6 @@ This repository contains Python-based automation scripts for interacting with Ci
 
 ```text
 ARS110_HT26_RestConf_Grupp16/
-├── .gitignore
 ├── LICENSE
 ├── README.md
 ├── robert.py
