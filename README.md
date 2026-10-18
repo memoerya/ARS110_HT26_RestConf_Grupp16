@@ -21,7 +21,6 @@ ARS110_HT26_RestConf_Grupp16/
 - `robert.py` – Python script for RESTCONF automation and device interaction
 - `skilla.py` – Python script for additional automation and network verification tasks
 - `LICENSE` – MIT license for the project
-- `.gitignore` – ignores local files generated during development
 
 ## Requirements
 
